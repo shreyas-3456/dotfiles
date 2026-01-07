@@ -1,0 +1,9 @@
+# OS junk
+.DS_Store
+
+# Secrets / local overrides
+.config/zsh/local.zsh
+
+# Editor temp files
+*.swp
+*.bak
